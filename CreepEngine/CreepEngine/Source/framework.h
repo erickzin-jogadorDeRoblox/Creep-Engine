@@ -1,0 +1,19 @@
+#pragma once
+
+#include "../CreepEngine/include/Engine/Engine.h"
+#include "../CreepEngine/include/Engine/Types.h"
+#include "../CreepEngine/include/Engine/GpuCompute.h"
+#include <thread>
+#include <chrono>
+#include <Windows.h>
+#include <gl/GL.h>
+#include <string>
+#include <cmath>
+#include <vector>
+#include <d3d11.h>
+#include <d3dcompiler.h>
+#include <fstream>
+#include <sstream>
+#include <atomic>
+#include <mutex>
+#include <filesystem>
