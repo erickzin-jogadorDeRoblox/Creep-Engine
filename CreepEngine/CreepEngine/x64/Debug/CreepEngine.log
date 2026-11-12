@@ -1,0 +1,59 @@
+﻿  Engine.cpp
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(147,9): error C3861: '_tcc_add_symbol': identificador não encontrado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(148,9): error C3861: '_tcc_add_symbol': identificador não encontrado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(171,16): error C2065: 'IsRunning': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(182,46): error C3861: 'LerArquivoScript': identificador não encontrado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(185,21): error C2065: 'ScriptStage': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(185,34): error C2065: 'scriptNovo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(185,47): error C3861: 'CompileCode': identificador não encontrado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(187,25): error C2065: 'scriptNovo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(188,25): error C2065: 'ScriptStage': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(188,38): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(191,62): error C2065: 'g_scriptMutex': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(192,29): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(192,44): error C2065: 'g_currentScript': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(193,29): error C2065: 'g_currentScript': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(193,47): error C2065: 'scriptNovo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(196,29): error C2065: 'scriptNovo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(197,29): error C2065: 'scriptNovo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(200,29): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(201,33): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(202,45): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(204,36): error C2065: 'scriptAntigo': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(204,29): error C2541: 'delete': não é possível excluir objetos que não são ponteiros
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(217,23): error C2065: 'ScriptStage': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(217,36): error C2065: 'script': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(217,44): error C2059: erro de sintaxe: 'const'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(217,69): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(217,69): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(248,10): error C2182: 'Engine_Shutdown': este uso de 'void' não é válido
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(248,26): error C2065: 'ScriptStage': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(248,39): error C2065: 'script': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(248,47): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(249,9): error C2059: erro de sintaxe: 'if'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(249,32): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(249,32): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(253,9): error C2059: erro de sintaxe: 'if'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(253,32): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(253,32): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(257,9): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(258,9): error C2059: erro de sintaxe: 'if'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(258,41): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(258,41): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(262,42): error C2065: 'g_scriptMutex': identificador não declarado
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(263,9): error C2059: erro de sintaxe: 'if'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(263,60): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(263,60): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(271,9): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(272,5): error C2059: erro de sintaxe: '}'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(272,5): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(275,53): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(275,53): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(323,1): error C2059: erro de sintaxe: '}'
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\Engine.cpp(323,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
+  GpuCompute.cpp
+C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\Source\GpuCompute.cpp(3,7): error C2011: 'GpuCompute': redefinição do tipo 'class'
+      C:\Users\Erickzitos\OneDrive\Desktop\CreepEngine\CreepEngine\include\Engine\GpuCompute.h(8,7):
+      consulte a declaração de 'GpuCompute'
+  
+  Gerando Código...

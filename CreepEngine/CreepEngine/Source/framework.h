@@ -1,11 +1,10 @@
 #pragma once
 
-#include "../CreepEngine/include/Engine/Engine.h"
-#include "../CreepEngine/include/Engine/Types.h"
-#include "../CreepEngine/include/Engine/GpuCompute.h"
+#include "../include/Engine/Engine.h"
+#include "../include/Engine/Types.h"
+#include "../include/Engine/GpuCompute.h"
 #include <thread>
 #include <chrono>
-#include <Windows.h>
 #include <gl/GL.h>
 #include <string>
 #include <cmath>
@@ -17,3 +16,4 @@
 #include <atomic>
 #include <mutex>
 #include <filesystem>
+#include <windows.h>
